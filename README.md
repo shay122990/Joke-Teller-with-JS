@@ -7,7 +7,7 @@ Please note that you can use the api key in the code, since it's not attached to
 
 ## Preview
 
-- [To see it live and hear the jokes](https://shay122990.github.io/Joke-Teller-with-JS/)
+
   ![Initial view](/media/image1.gif)
 
 ## Built With
